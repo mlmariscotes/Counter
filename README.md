@@ -1,5 +1,6 @@
 # Counter 
 Digital Tally Counter
-- Coding Exercise 
+
+Coding Exercise 
 
 - https://mlmariscotes.github.io/Counter/
